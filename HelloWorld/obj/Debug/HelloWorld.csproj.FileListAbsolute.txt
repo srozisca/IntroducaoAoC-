@@ -1,4 +1,3 @@
-C:\Projetos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
 C:\Projetos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
 C:\Projetos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\HelloWorld\bin\Debug\HelloWorld.exe.config
 C:\Projetos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\HelloWorld\bin\Debug\HelloWorld.exe

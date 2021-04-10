@@ -18,12 +18,17 @@ namespace OMundoDasClassesParte2
             ExibeAnimal(c); //recebe argumento do tipo cachorro
             ExibeAnimal(g); //recebe argumento do tipo gato
             ExibeAnimal(a); //recebe argumento do tipo animal
+
+            //object o = new Cachorro("Totó", 10);
         }
 
         public static void ExibeAnimal(Animal animal)
         {
             Console.WriteLine($"Nome: {animal.Nome}");
             Console.WriteLine($"Idade: {animal.Idade}");
+            Console.WriteLine($"Som: {animal.SomEmitido}");
+            Console.WriteLine($"Locomocao: {animal.Locomocao}");
+            Console.WriteLine("\n");
         }
     }
 }

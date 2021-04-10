@@ -12,5 +12,7 @@ namespace OMundoDasClassesParte2
             : base(nome, idade) //invoca o construtor da classe base Animal
         {
         }
+
+        public override Som SomEmitido => Som.Latido;
     }
 }
