@@ -1,0 +1,6 @@
+C:\Projetos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\bin\Debug\TiposEVariaveis.exe.config
+C:\Projetos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\bin\Debug\TiposEVariaveis.exe
+C:\Projetos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\bin\Debug\TiposEVariaveis.pdb
+C:\Projetos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\TiposEVariaveis.csproj.CoreCompileInputs.cache
+C:\Projetos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\TiposEVariaveis.exe
+C:\Projetos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\TiposEVariaveis.pdb

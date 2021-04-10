@@ -1,0 +1,7 @@
+C:\Projetos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\LacosCondicionais\bin\Debug\LacosCondicionais.exe.config
+C:\Projetos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\LacosCondicionais\bin\Debug\LacosCondicionais.exe
+C:\Projetos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\LacosCondicionais\bin\Debug\LacosCondicionais.pdb
+C:\Projetos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\LacosCondicionais\obj\Debug\LacosCondicionais.csprojAssemblyReference.cache
+C:\Projetos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\LacosCondicionais\obj\Debug\LacosCondicionais.csproj.CoreCompileInputs.cache
+C:\Projetos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\LacosCondicionais\obj\Debug\LacosCondicionais.exe
+C:\Projetos\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\LacosCondicionais\obj\Debug\LacosCondicionais.pdb
